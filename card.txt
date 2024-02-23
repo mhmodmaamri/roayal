@@ -1,0 +1,68 @@
+ <!-- Product Card -->
+                    <div class="col-sm-6 col-md-4 col-lg-3 px-2 mb-4">
+                        <div class="card card-product h-100">
+                            <!-- Badges -->
+                            <div class="product-badges">
+                                <span class="badge bg-danger">12%</span>
+                                <span class="badge bg-success">Top</span>
+                            </div>
+                            <!-- Badges -->
+                            <!-- Buttons -->
+                            <div class="product-buttons">
+                                <button class="btn-product btn-wishlist" type="button" data-bs-toggle="button" title="Add to wishlist"><i class="ri-heart-line"></i></button>
+                                <a class="btn-product btn-compare" href="#" title="Compare product">
+                                    <i class="ri-repeat-line"></i>
+                                </a>
+                                <a class="btn-product btn-view" href="#modal-quick-view" data-bs-toggle="modal" title="Quick preview">
+                                    <i class="ri-eye-line"></i>
+                                </a>
+                            </div>
+                            <!-- Buttons -->
+                            <!-- Preview Image -->
+                            <a class="card-img-top d-block overflow-hidden flex-shrink-0" href="#">
+                                <img class="img-fluid" src="assets/img/product-card/product-pixel-4a.png" alt="Product">
+                            </a>
+                            <!-- Preview Image -->
+                            <div class="card-body d-flex flex-column align-items-start flex-grow-1 rounded-bottom h-100 py-3">
+                                <!-- Product Category -->
+                                <a class="product-category d-block fs-sm pb-1" href="#">Smartphones</a>
+                                <!-- Product Category -->
+                                <!-- Product Title -->
+                                <h3 class="product-title flex-grow-1">
+                                    <a href="#" class="product-title">Google Pixel 4a 128GB Barely Blue</a>
+                                </h3>
+                                <!-- Product Title -->
+                                <!-- Star Rating -->
+                                <span class="star-rating star-8"></span>
+                                <!-- Star Rating -->
+                                <!-- Product Price -->
+                                <div class="product-price">
+                                    <span class="text-danger fs-5 product-price">$349<del class="text-body-secondary ms-1"><small>$499</small></del>
+                                    </span>
+                                </div>
+                                <!-- Product Price -->
+                                <!-- Product Meta -->
+                                <span class="product-meta text-body-secondary fs-xs"> Only <span>6</span> left in stock </span>
+                                <!-- Product Meta -->
+                            </div>
+                            <!-- Product Addon -->
+                            <div class="card-body product-addon">
+                                <!-- Button -->
+                                <button class="btn btn-primary btn-sm d-flex align-items-center justify-content-center w-100" type="button"><i class="ri-shopping-cart-2-line me-2"></i>Add to Cart</button>
+                                <!-- Button -->
+                                <hr class="my-4 d-none d-lg-block">
+                                <!-- Product Details -->
+                                <div class="product-details d-none d-lg-block fs-sm">
+                                    <ul class="m-0 ps-4">
+                                        <li>Screen: 5.8"</li>
+                                        <li>Hardware: 6 cores, 4 Gb</li>
+                                        <li>OS: Android OS</li>
+                                    </ul>
+                                </div>
+                                <!-- Product Details -->
+                            </div>
+                            <!-- Product Addon -->
+                        </div>
+                        <hr class="d-sm-none">
+                    </div>
+                    <!-- Product Card -->
