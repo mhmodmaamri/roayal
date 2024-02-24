@@ -417,7 +417,7 @@ sup {
 }
 
 a {
-    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    color: #48484d;
     text-decoration: none
 }
 
@@ -10114,7 +10114,7 @@ fieldset:disabled .btn {
 
 .text-danger {
     --bs-text-opacity: 1;
-    color: rgb(255 255 255) !important;
+    color: #d5d5d8 !important;
 }
 
 .text-warning {
