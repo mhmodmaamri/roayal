@@ -10099,7 +10099,7 @@ fieldset:disabled .btn {
 
 .text-accent {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-accent-rgb), var(--bs-text-opacity)) !important
+    color: #cf3636 !important;
 }
 
 .text-secondary {
@@ -10114,7 +10114,7 @@ fieldset:disabled .btn {
 
 .text-danger {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-danger-rgb), var(--bs-text-opacity)) !important
+    color: rgb(255 255 255) !important;
 }
 
 .text-warning {
@@ -17081,7 +17081,7 @@ fieldset:disabled .btn {
 
 .mobile-toolbar-icon {
     display: block;
-    color: #262261;
+    color: #f6f6f7;
     font-size: 1.25rem
 }
 
@@ -17092,7 +17092,7 @@ fieldset:disabled .btn {
 
 .mobile-toolbar-label {
     display: block;
-    color: var(--bs-primary);
+    font-size: .6875rem;
     font-size: .6875rem
 }
 
@@ -17269,7 +17269,7 @@ fieldset:disabled .btn {
 }
 
 .product-title>a {
-    color: var(--bs-accent)
+    color: #f05564;
 }
 
 .product-title>a:hover {
@@ -18747,7 +18747,7 @@ body {
 }
 
 [data-bs-theme=dark] .hero-swiper-pagination .swiper-pagination-bullet-active {
-    background-color: var(--bs-accent)
+        background-color: #cf3636;
 }
 
 .hero-grid {
