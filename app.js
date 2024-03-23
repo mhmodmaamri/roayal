@@ -480,7 +480,7 @@ let products = [
         Ratio:"15",
         badge:"bg-success",
         badge_text:"Top",
-        Link: 'product-single_26.html',
+        Link: 'product-single_27.html',
     },
     // ... (other products)
 ];
