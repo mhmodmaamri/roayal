@@ -465,6 +465,23 @@ let products = [
         badge_text:"Top",
         Link: 'product-single_26.html',
     },
+        {
+        id: 27,
+        name: 'RS L-Carnitine 1350',
+        image: '30_1.png',
+        price: 99,
+        Discount: '120',
+        type: 'RS - Supplements',
+        About:"Two weeks to delivery",
+        description_1:"Price",
+        description_2:"quality",
+        description_3:"health",
+        rating:10,
+        Ratio:"15",
+        badge:"bg-success",
+        badge_text:"Top",
+        Link: 'product-single_26.html',
+    },
     // ... (other products)
 ];
 
