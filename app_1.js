@@ -71,7 +71,7 @@ let products = [
         
     },
     {
-        id: 30,
+        id: 323,
         name: 'RS - professional Gainer',
         image: '30.png',
         price: 249,
@@ -468,7 +468,7 @@ let products = [
         Link: 'product-single_1_25.html',
     },
             {
-        id: 31,
+        id: 4326,
         name: 'RS - Glutamine powder',
         image: '31.png',
         price: 149,
