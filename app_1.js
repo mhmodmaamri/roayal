@@ -86,7 +86,7 @@ let products = [
         badge:"bg-info",
         badge_text:"new",
         id:"myFunction_3",
-        Link: 'product-single_1_30_1.html',
+        Link: 'product-single_1_30.html',
         
     },
     {
@@ -483,7 +483,7 @@ let products = [
         badge:"bg-info",
         badge_text:"new",
         id:"myFunction_3",
-        Link: 'product-single_1_31_1.html',
+        Link: 'product-single_1_31.html',
         
     },
     {
