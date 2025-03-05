@@ -73,7 +73,7 @@ let products = [
     {
         id: 323,
         name: 'RS - professional Gainer',
-        image: '30.png',
+        image: '30_1.png',
         price: 249,
         Discount: '299',
         type: 'RS - Supplements',
@@ -467,10 +467,10 @@ let products = [
         badge_text:"Top",
         Link: 'product-single_1_25.html',
     },
-            {
+    {
         id: 4326,
         name: 'RS - Glutamine powder',
-        image: '31.png',
+        image: '31_1.png',
         price: 149,
         Discount: '249',
         type: 'RS - Supplements',
@@ -506,7 +506,7 @@ let products = [
         {
         id: 27,
         name: 'RS L-Carnitine 1350',
-        image: '30_1.png',
+        image: '27_1.png',
         price: 99,
         Discount: '120',
         type: 'RS - Supplements',
