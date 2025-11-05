@@ -214,7 +214,7 @@ let products = [
         id: 11,
         name: 'RS - ZMA Plus',
         image: '11_1.png',
-        price: 149
+        price: 149,
         Discount: '180',
         type: 'RS - Supplements',
         About:"Two weeks to delivery",
